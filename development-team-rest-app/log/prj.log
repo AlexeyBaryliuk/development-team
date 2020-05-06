@@ -1,0 +1,3 @@
+09:42:53 [qtp227381657-16] DEBUG c.e.b.c.r.ProjectsController - projects()
+09:42:53 [qtp227381657-16] DEBUG c.e.b.c.s.ProjectsServiceImpl - Find all projects - findAll()
+09:42:53 [qtp227381657-16] DEBUG c.e.b.c.d.ProjectJdbcDaoImpl - fidAll()
